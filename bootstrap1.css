@@ -1,0 +1,24 @@
+.d-flex{
+	text-shadow: 50px;
+}
+
+.navbar {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+@media screen and (min-width: 576px){
+	.card-deck .card{
+		height: 100%;
+	}
+}
+
+.navbar-brand{
+	font-weight: bolder;
+	font-style: oblique;
+}
